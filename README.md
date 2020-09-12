@@ -1,11 +1,10 @@
-### Hi, I'm Casey 👋
+## Hi, I'm Casey 👋
 
-- 🔭 I’m currently working on building a database of restaurants in the Baltimore area
-- 🌱 I’m currently learning Spanish thanks to Duolingo
-- 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with finding a new job... I was just laid off :(
-- 💬 Ask me about my new puppy!
-- 📫 How to reach me: @cdwhitt on Twitter and Casey Whittaker on LinkedIn
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I freaking love cookies
+Last year, I attended [Launch Academy](http://www.launchacademy.com):rocket: located in Downtown Boston. Since then, I've been refining and building my full stack skills by working professionally for a small start up and for fun on side projects.
+
+I'm currently in the market for a new job, so if you're interested in what I've built, let's chat!
+
+### Get in touch :speech_balloon:
+- Twitter: http://www.twitter.com/theCaseyWhitt
+- LinkedIn: https://www.linkedin.com/in/casey-whittaker/
 
