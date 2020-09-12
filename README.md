@@ -10,9 +10,9 @@ I'm a full-stack software engineer and new dog dad :dog: who can't go a day with
 I've also been learning more about **Next.js** and I *reallyyy* want to build a portfolio with it :bowtie:
 
 ### :eyes: Recently, I've been...
-:seedling: Learning more about gardening
-:notebook_with_decorative_cover: Writing more in my journal
-:running: Becoming a better runner
+- :seedling: Learning more about gardening
+- :notebook_with_decorative_cover: Writing more in my journal
+- :running: Becoming a better runner
 
 I'm also currently in the market for a :sparkles:**new job**:sparkles:, so if you're interested in what I've built, let's chat!
 
