@@ -3,7 +3,7 @@
 I'm a full-stack software engineer and new dog dad :dog: who can't go a day without cold brew :snowflake::coffee:. Last year, I attended [Launch Academy](http://www.launchacademy.com):rocket:, an immersive coding bootcamp located in downtown Boston, with the goal of finding more fulfillment in my career. I'm so lucky to have reached that goal, and since then, I've been refining and building my full-stack skills by working professionally for a small start up and for fun on side projects.
 
 ### :zap: I have experience with:
-- [x] Creating re-usable **React** components for future use
+- [x] Creating re-usable **React** components
 - [x] Building **RESTful APIs** with **Node.js** & **Express** and with **Ruby on Rails**
 - [x] Designing pages and/or following mockups by writing custom **CSS** and with **CSS libraries**, including **Semantic UI**, **Foundations**, and others
 
