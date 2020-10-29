@@ -7,8 +7,6 @@ I'm a full-stack software engineer and new dog dad :dog: who can't go a day with
 - [x] Building **RESTful APIs** with **Node.js** & **Express** and with **Ruby on Rails**
 - [x] Designing pages and/or following mockups by writing custom **CSS** and with **CSS libraries**, including **Semantic UI**, **Foundations**, and others
 
-I've also been learning more about **Next.js** and I *reallyyy* want to build a portfolio with it :bowtie:
-
 ### :eyes: Recently, I've been...
 - :seedling: Learning more about gardening
 - :notebook_with_decorative_cover: Writing more in my journal
