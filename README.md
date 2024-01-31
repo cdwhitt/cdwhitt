@@ -28,8 +28,8 @@ Here's a quick overview of the technologies I work with:
 
 ## 🌱 I’m currently ...
 - Expanding my expertise in advanced React features
-- Exploring cloud services and architectures
 - Learning how to use Tailwind CSS
+- Working with [TransitMatters](https://dashboard.transitmatters.org/) on some pretty cool things in Boston
 - Reading a [bunch of books](https://www.goodreads.com/user/show/104339093-casey-whittaker)
 
 ## 📫 How to reach me:
